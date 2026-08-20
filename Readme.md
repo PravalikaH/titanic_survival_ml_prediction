@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+
 # Titanic Survival Prediction — ML Classification
 
 This repository contains my submission for **Project 02** in the AI & ML Internship Program at Pluto Academy.
