@@ -5,7 +5,7 @@ This repository contains my submission for **Project 02** in the AI & ML Interns
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 The objective is to analyze historical passenger records from the Titanic disaster and build a machine learning model that accurately predicts survival.
 
 - **Dataset Source:** [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
@@ -13,7 +13,7 @@ The objective is to analyze historical passenger records from the Titanic disast
 
 ---
 
-## 🛠️ Workflow & Methodology
+##  Workflow & Methodology
 
 1. **Data Preprocessing:**
    - Imputed missing `Age` values using the median to avoid outlier skewness.
@@ -31,7 +31,7 @@ The objective is to analyze historical passenger records from the Titanic disast
 
 ---
 
-## 📊 Model Comparison Table
+##  Model Comparison Table
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 | :--- | :---: | :---: | :---: | :---: |
@@ -41,7 +41,7 @@ The objective is to analyze historical passenger records from the Titanic disast
 
 ---
 
-## 🏆 Best Model Analysis & Conclusion
+##  Best Model Analysis & Conclusion
 
 1. Random Forest and K-Nearest Neighbors tied for the highest overall accuracy at **79.89%**, outperforming Logistic Regression (**79.33%**).
 2. Random Forest achieved the highest precision score of **83.67%**, producing the fewest false-positive survival predictions on the test set.
@@ -51,6 +51,6 @@ The objective is to analyze historical passenger records from the Titanic disast
 
 ---
 
-## 🔗 Project Links
+## Project Links
 - **Google Colab Notebook:** [View Notebook](https://colab.research.google.com/drive/1vm7ycBExQvMeszwbAkjSlgJXeYHEBbl_?usp=sharing)
 - **GitHub Repository:** [https://github.com/PravalikaH/titanic_survival_ml_prediction](https://github.com/PravalikaH/titanic_survival_ml_prediction)
